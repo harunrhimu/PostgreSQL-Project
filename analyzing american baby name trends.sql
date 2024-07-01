@@ -1,3 +1,6 @@
+American Baby name Trends Analysis by Postgresql
+We use different sql tools to find out main trends of baby name
+
 %%sql
 postgresql:///names
     
